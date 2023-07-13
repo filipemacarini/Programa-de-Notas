@@ -1,0 +1,10 @@
+Camiseta Listrada;29.90
+Calça Jeans;79.99
+Tênis Esportivo;149.90
+Mochila;59.99
+Jaqueta de Couro;199.99
+Pendrive 8GB;39.90
+Óculos de Sol;79.90
+Relógio de Pulso;129.99
+Bolsa de Couro;89.90
+Chapéu de Palha;19.99
