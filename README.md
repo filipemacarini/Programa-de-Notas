@@ -1,11 +1,8 @@
-# Programa para criação de Notas
+# Programa de Notas
 ## Sobre
-Este é um simples programa em python que tem como objetivo: De forma simples e objetiva, criar, gerenciar e guardar notas.
+Este foi meu primeiro projeto como programador, porém infelizmente está incompleto
 
 ## Como está indo
 - [x] Gerar notas 
 - [x] Guardar notas
 - [ ] Gerenciar notas
-
-## Versão
-Está é a primeira versão desse projeto por isso está incompleto.
